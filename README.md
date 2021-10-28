@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hannesdrews
+- 👀 I’m interested in all things Python and additionally working on microcontrollers like arduino, micro:bit, esp32,...
+- 🌱 I’m currently learning to code the above and also becoming a teacher for computer science
